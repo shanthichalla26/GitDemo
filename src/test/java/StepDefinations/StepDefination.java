@@ -19,6 +19,11 @@ public class StepDefination {
 		 System.out.println("user_is_on_netbanking_landing_page");
 		 System.out.println("user_is_on_netbanking_finish_page");
 		 System.out.println("user_is_on_netbanking_loading_page");
+		 System.out.println("user_is_on_netbanking_loading_page3");
+		 System.out.println("user_is_on_netbanking_loading_page1");
+		 System.out.println("user_is_on_netbanking_loading_page2");
+		 
+		 
 	       // throw new PendingException();
 	        
 	    }
