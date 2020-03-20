@@ -17,6 +17,8 @@ public class StepDefination {
 	 @Given("^User is on Netbanking landing page$")
 	    public void user_is_on_netbanking_landing_page() throws Throwable {
 		 System.out.println("user_is_on_netbanking_landing_page");
+		 System.out.println("user_is_on_netbanking_finish_page");
+		 System.out.println("user_is_on_netbanking_loading_page");
 	       // throw new PendingException();
 	        
 	    }
