@@ -37,6 +37,9 @@ public class StepDefination {
 	    	 System.out.println("home_page_is_populated");
 	    	 System.out.println("home_page_is_populated1");
 	    	 System.out.println("home_page_is_populated2");
+	    	 System.out.println("home_page_is_populated3");
+	    	 System.out.println("home_page_is_populated4");
+	    	 System.out.println("home_page_is_populated5");
 	    }
 
 	    @And("^Cards displayed are \"([^\"]*)\"$")
